@@ -25,7 +25,7 @@ Samosa Clicker is an interactive web-based game where players can click to earn 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/evasquez25/Samosa-Clicker.git
    cd samosa-selector
    npm install
    npm run dev
